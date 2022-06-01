@@ -1,3 +1,34 @@
+This app is built using the Github API to fetch user values and display them on the browser using the JavaScript DOM.
+
+Simply search for a Github profile and hit Get Info!
+
+There are a few values that will be displayed here, such as the Github users name, their profile name, their avatar/profile image, how many public repositories they currently have, and what their github page link is.
+
+If the Github user doesn't exist, nothing will change on the screen, however you will notice it being caught in the console, as it should display an error.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # GithubApp
 Web App using Github API
 
